@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I' m Stelios.
-
 📚  Student of Statistics and Insurance Science <br>
 💻  Coding with **R** <br>
 🧪  Experimenting with **Julia** and its capabilities <br>
