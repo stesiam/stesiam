@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-📚  I study Statistics and Insurance Science <br>
-💻  Coding with :rstats: <br>
-🧪  Experimenting with :julia: and its capabilities <br>
-📊  Developing my dataviz & Shiny skills
+📚  Study Statistics and Insurance Science <br>
+💻  Coding with **R** <br>
+🧪  Experimenting with **Julia** and its capabilities <br>
+📊  Constantly developing my dataviz & Shiny skills
 
-Mostly interested to #rstats, #RShiny, #QuartoPub & #ggplot2.
+Mostly interested to Rstats, Shiny, Quarto & ggplot2.
