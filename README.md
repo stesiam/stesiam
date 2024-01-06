@@ -1,5 +1,6 @@
-### Hi there 👋
+<h1> Hello there! <img src="https://media.giphy.com/media/kCMry3iScFtypKZXWn/giphy.gif" height = "40"></h1>
 
+👋  I am Stelios (he/him) <br>
 📚  Student of Statistics and Insurance Science <br>
 💻  Coding with **R** <br>
 🧪  Experimenting with **JavaScript** and its capabilities <br>
