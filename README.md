@@ -1,5 +1,8 @@
 <h1> Hello there! <img src="https://media.giphy.com/media/kCMry3iScFtypKZXWn/giphy.gif" height = "40"></h1>
+
+<!---
 <img align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" height = "180"></h1>
+--->
 
 👋  I am Stelios (he/him) <br>
 📚  Student of Statistics and Insurance Science <br>
