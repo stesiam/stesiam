@@ -1,5 +1,6 @@
 <h1> Hello there! <img src="https://media.giphy.com/media/kCMry3iScFtypKZXWn/giphy.gif" height = "40"></h1>
-<img align="right" src="images/penguin_coding.gif" height = "180"></h1>
+<img align="right" src="images/penguin_coding.gif" width = "28%"></h1>
+
 
 👋  I am Stelios (he/him) <br>
 📚  Student of Statistics and Insurance Science <br>
