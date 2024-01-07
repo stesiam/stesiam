@@ -1,5 +1,5 @@
 <h1> Hello there! <img src="https://media.giphy.com/media/kCMry3iScFtypKZXWn/giphy.gif" height = "40"></h1>
-<img align="right" src="images/penguin_coding.gif" width = "28%"></h1>
+<img align="right" src="images/penguin_coding.gif" width = "23%"></h1>
 
 
 👋  I am Stelios (he/him) <br>
@@ -9,3 +9,5 @@
 📊  Constantly developing my dataviz & Shiny skills
 
 Mostly interested in [Rstats](https://www.r-project.org/), [Shiny](https://shiny.posit.co/), [Quarto](https://github.com/quarto-dev/quarto-cli) & [ggplot2](https://ggplot2.tidyverse.org/).
+<br>
+<hr>
