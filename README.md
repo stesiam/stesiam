@@ -1,4 +1,4 @@
-<h1> Hello there! <img src="https://media.giphy.com/media/kCMry3iScFtypKZXWn/giphy.gif" height = "40"></h1>
+<h2> Hello there! <img src="https://media.giphy.com/media/kCMry3iScFtypKZXWn/giphy.gif" height = "30"></h2>
 <img align="right" src="images/penguin_coding.gif" width = "23%"></h1>
 
 
