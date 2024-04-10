@@ -22,7 +22,7 @@ Mostly interested in [Rstats](https://www.r-project.org/), [Shiny](https://shiny
 <sub> ├── 🌐 <b>Web Apps</b></sub><br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Ageing Dashboard](https://github.com/stesiam/AgeingDashboard) </sub> <br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Shiny Distributions](https://github.com/stesiam/AgeingDashboard) ⚒️⚒️</sub> <br>
-<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [Greek Elections App](https://stesiam.shinyapps.io/Greek-Elections-App/) </sub> <br>
+<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [Greek Elections App](https://github.com/stesiam/Greek-Elections-App) </sub> <br>
 <sub> ├── ⌨️ <b>API Development</b></sub><br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Glass API](https://github.com/stesiam/GlassAPI) </sub> <br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [Dev API](https://github.com/stesiam/GlassAPI) ⚒️⚒️ </sub><br>
