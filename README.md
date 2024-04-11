@@ -12,13 +12,16 @@ Mostly interested in [Rstats](https://www.r-project.org/), [Shiny](https://shiny
 <br>
 <hr>
 
-#### Tidying my Projects :
+#### 🧹🧹 Tidying my Projects 🧹🧹 :
 <sub> ~/<b>My Projects</b>/</sub><br>
-<sub> ├── 📊 <b>Visualization Projects</b> </sub><br>
+<sub> ├── 📊 <b>Visualization Projects</b></sub><br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [30 Day Chart Challenge](https://github.com/stesiam/30DayChartChallenge)</sub> <br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Tidy Tuesday](https://github.com/stesiam/tidytuesday)</sub> <br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Greece in Figures](https://github.com/stesiam/Greece-In-Figures) </sub> <br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [EU in Figures](https://github.com/stesiam/EU-In-Figures) </sub> <br>
+<sub> ├── ⛏️ <b>Web Scraping</b></sub><br>
+<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Project 1]() </sub> <br>
+<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Project 2]() </sub> <br>
 <sub> ├── 🌐 <b>Web Apps</b></sub><br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Ageing Dashboard](https://github.com/stesiam/AgeingDashboard) </sub> <br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Shiny Distributions](https://github.com/stesiam/AgeingDashboard) ⚒️⚒️</sub> <br>
