@@ -31,7 +31,7 @@ Mostly interested in [Rstats](https://www.r-project.org/), [Shiny](https://shiny
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [Statistics Lab]() ⚒️⚒️</sub> <br>
 <sub> ├── ⌨️ <b>API Development</b></sub><br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Glass API](https://github.com/stesiam/GlassAPI) </sub> <br>
-<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [Dev API](https://github.com/stesiam/GlassAPI) </sub><br>
+<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [Dev Wages API](https://github.com/stesiam/GlassAPI) </sub><br>
 <sub> ├── 🗒️ <b>Posters</b></sub><br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Before my First Stats Lecture](https://github.com/stesiam/posterMaths) </sub><br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [Summary Distributions](https://github.com/stesiam/Summary-Distributions)</sub><br>
