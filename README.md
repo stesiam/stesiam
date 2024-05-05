@@ -41,5 +41,6 @@ Mostly interested in [Rstats](https://www.r-project.org/), [Shiny](https://shiny
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [EDA on Greek Parliament](https://www.stesiam.com/english/2022-10-10-EDA-Greek-Parliament/2022-10-10-EDA-Greek-Parliament.html) </sub><br>
 <sub> └── 🏷️ <b>Others</b></sub><br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [List of Quarto Websites](https://github.com/stesiam/Quarto-Websites) </sub><br>
-<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [My site's (Quarto) Repo](https://github.com/stesiam,github.io/stesiam,github.io) </sub><br>
+<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [My site's (Quarto) Repo](https://github.com/stesiam,github.io/stesiam,github.io) </sub><br>
+<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [My CV](https://github.com/stesiam/cvDSen) </sub><br>
 
