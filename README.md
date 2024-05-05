@@ -8,7 +8,7 @@
 🧪  Experimenting with <img src="images/python-logo.svg" height = "15"> and <img src="images/js-logo.png" height = "15"> <br>
 📊  Constantly developing my dataviz & Shiny skills
 
-Mostly interested in [Rstats](https://www.r-project.org/), [Shiny](https://shiny.posit.co/), [Quarto](https://github.com/quarto-dev/quarto-cli) & [ggplot2](https://ggplot2.tidyverse.org/).
+Mostly interested in [Rstats](https://www.r-project.org/), [Shiny](https://shiny.posit.co/), [Quarto](https://quarto.org/) & [ggplot2](https://ggplot2.tidyverse.org/).
 <br>
 <hr>
 
