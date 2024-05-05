@@ -33,7 +33,7 @@ Mostly interested in [Rstats](https://www.r-project.org/), [Shiny](https://shiny
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Glass API](https://github.com/stesiam/GlassAPI) </sub> <br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [Dev Wages API](https://github.com/stesiam/Dev-Wages-Api) </sub><br>
 <sub> ├── 🗒️ <b>Posters</b></sub><br>
-<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Before my First Stats Lecture](https://github.com/stesiam/posterMaths) </sub><br>
+<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Before my First Stats Lecture](https://github.com/stesiam/Before-First-Stats-Lecture) </sub><br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [Summary Distributions](https://github.com/stesiam/Summary-Distributions)</sub><br>
 <sub> ├── ✏️ <b>Selected Articles</b></sub><br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Statistics of Statistics’ Graduates](https://www.stesiam.com/english/2023-07-23-Graduates-of-Statistics/2023-07-23-Graduates-of-Statistics.html) ⚒️⚒️ (re-writing) </sub><br>
