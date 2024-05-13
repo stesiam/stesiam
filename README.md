@@ -24,9 +24,9 @@ Mostly interested in [Rstats](https://www.r-project.org/), [Shiny](https://shiny
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Greek Members of Parliament (1974 - 2022)]() ⚒️⚒️ </sub> <br>
 <sub> ├── 🌐 <b>Web Apps</b></sub><br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Ageing Dashboard](https://github.com/stesiam/AgeingDashboard) </sub> <br>
-<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Shiny Distributions](https://github.com/stesiam/AgeingDashboard) ⚒️⚒️</sub> <br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Greek Elections App](https://github.com/stesiam/Greek-Elections-App) </sub> <br>
-<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Dev Wages App]() ⚒️⚒️ </sub> <br>
+<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Dev Wages App](https://stesiam.shinyapps.io/Web-Dev-App/) </sub> <br>
+<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Shiny Distributions](https://github.com/stesiam/AgeingDashboard) ⚒️⚒️</sub> <br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Predict Passengers]() ⚒️⚒️</sub> <br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [Statistics Lab]() ⚒️⚒️</sub> <br>
 <sub> ├── ⌨️ <b>API Development</b></sub><br>
@@ -37,8 +37,8 @@ Mostly interested in [Rstats](https://www.r-project.org/), [Shiny](https://shiny
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Before my First Stats Lecture](https://github.com/stesiam/Before-First-Stats-Lecture) </sub><br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [Summary Distributions](https://github.com/stesiam/Summary-Distributions)</sub><br>
 <sub> ├── ✏️ <b>Selected Articles</b></sub><br>
-<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Statistics of Statistics’ Graduates](https://www.stesiam.com/english/2023-07-23-Graduates-of-Statistics/2023-07-23-Graduates-of-Statistics.html) ⚒️⚒️ (re-writing) </sub><br>
-<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Kaggle’s Greek Community](https://www.stesiam.com/english/2023-05-06-Kaggle-Greek-Community/2023-05-06-Kaggle-Greek-Community.html) ⚒️⚒️ (re-writing) </sub><br> 
+<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Statistics of Statistics’ Graduates](https://www.stesiam.com/english/2023-07-23-Graduates-of-Statistics/2023-07-23-Graduates-of-Statistics.html)</sub><br>
+<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Kaggle’s Greek Community](https://www.stesiam.com/english/2023-05-06-Kaggle-Greek-Community/2023-05-06-Kaggle-Greek-Community.html)</sub><br> 
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [EDA on Greek Parliament](https://www.stesiam.com/english/2022-10-10-EDA-Greek-Parliament/2022-10-10-EDA-Greek-Parliament.html) </sub><br>
 <sub> └── 🏷️ <b>Others</b></sub><br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [List of Quarto Websites](https://github.com/stesiam/Quarto-Websites) </sub><br>
