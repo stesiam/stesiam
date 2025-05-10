@@ -15,8 +15,9 @@ Mostly interested in [Rstats](https://www.r-project.org/), [Shiny](https://shiny
 #### 🧹🧹 Tidying my Projects 🧹🧹 :
 <sub> ~/<b>My Projects</b>/</sub><br>
 <sub> ├── 📊 <b>Visualization Projects</b></sub><br>
-<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [30 Day Chart Challenge](https://github.com/stesiam/30DayChartChallenge)</sub> <br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Tidy Tuesday](https://github.com/stesiam/tidytuesday)</sub> <br>
+<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [30 Day Chart Challenge](https://github.com/stesiam/30DayChartChallenge)</sub> <br>
+<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [30 Day Map Challenge]([https://github.com/stesiam/30DayChartChallenge](https://github.com/stesiam/30DayMapChallenge))</sub> <br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Greece in Figures](https://github.com/stesiam/Greece-In-Figures) </sub> <br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [EU in Figures](https://github.com/stesiam/EU-In-Figures) </sub> <br>
 <sub> ├── ⛏️ <b>Web Scraping</b></sub><br>
