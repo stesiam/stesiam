@@ -23,7 +23,7 @@ Mostly interested in [Rstats](https://www.r-project.org/), [Shiny](https://shiny
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [Rest ggplots](https://github.com/stesiam/Rest-ggplots) </sub> <br>
 <sub> ├── ⛏️ <b>Web Scraping</b></sub><br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Register of Insurance Undertakings](https://github.com/stesiam/insuranceRegister) </sub> <br>
-<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [Job Postings from xe.gr](https://github.com/stesiam/scraping-job-postings-xe) ⚒️⚒️ </sub> <br>
+<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [Job Postings from xe.gr](https://github.com/stesiam/scraping-job-postings-xe) </sub> <br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [Greek Members of Parliament (1974 - 2022)]() ⚒️⚒️ </sub> <br>
 <sub> ├── 🌐 <b>Web Apps</b></sub><br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Ageing Dashboard](https://github.com/stesiam/AgeingDashboard) </sub> <br>
