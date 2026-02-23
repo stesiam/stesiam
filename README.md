@@ -41,6 +41,7 @@ Mostly interested in [Rstats](https://www.r-project.org/), [Shiny](https://shiny
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [Summary Distributions Table](https://github.com/stesiam/Summary-Distributions)</sub><br>
 <sub> ├── ✏️ <b>Selected Articles</b></sub><br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Statistics of Statistics’ Graduates](https://www.stesiam.com/english-posts/2023-07-23-Graduates-of-Statistics/)</sub><br>
+<sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Forecasting Greek Unemployment](https://stesiam.com/posts/forecasting-greek-unemployment/)</sub><br>
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── 📁 [Kaggle’s Greek Community](https://www.stesiam.com/english-posts/2023-05-06-Kaggle-Greek-Community/)</sub><br> 
 <sub>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── 📁 [EDA on Greek Parliament](https://www.stesiam.com/english-posts/2022-10-10-EDA-Greek-Parliament/) </sub><br>
 <sub> └── 🏷️ <b>Others</b></sub><br>
